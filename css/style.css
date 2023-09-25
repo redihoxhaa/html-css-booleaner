@@ -43,3 +43,26 @@
 .article-body span {
     background-color: yellow;
 }
+
+table {
+    font-size: 24px;
+    text-align: left;
+    vertical-align: middle;
+    border-spacing: 0;
+    border-collapse: collapse;
+    
+}
+
+th {
+    background-color: #20a9e5;
+    color: white;
+    width: 100vh;
+}
+
+tbody {
+    background-color: #b1e5f2;
+}
+
+.middle-tr {
+    background-color: white;
+}
