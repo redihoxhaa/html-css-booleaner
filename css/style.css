@@ -10,5 +10,28 @@
 .banner-image {
     margin-top: 100px;
     margin-left: 5px;
-    width: ;
+}
+
+.title-and-author h1 {
+    font-size: 60px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.autore, .data {
+    font-size: 28px;
+    color: gray;
+}
+
+.data {
+    font-size: 18px;
+}
+
+.immagini-articolo {
+    margin-top: 30px;
+}
+
+.descrizione-foto span {
+    display: block;
+    font-size: 18px;
 }
