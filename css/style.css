@@ -18,20 +18,28 @@
     margin-bottom: 0px;
 }
 
-.autore, .data {
+.author, .date {
     font-size: 28px;
     color: gray;
 }
 
-.data {
+.date {
     font-size: 18px;
 }
 
-.immagini-articolo {
+.article-images {
     margin-top: 30px;
 }
 
-.descrizione-foto span {
+.pic-description span {
     display: block;
     font-size: 18px;
+}
+
+.article-body {
+    font-size: 24px
+}
+
+.article-body span {
+    background-color: yellow;
 }
