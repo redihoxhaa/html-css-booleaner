@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color: #0B0C10;
+    color: rgb(235, 235, 235);
+}
+
+/* CSS header */
+
+.banner {
+    border-radius: 20px;
+    height: 120px;
+    background-color: #1F2833;
+    margin: 20px;
+    display: flex;
+}
+
+.banner-image {
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+}
+
