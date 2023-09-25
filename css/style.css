@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    font-size: 24px;
+}
+
 .banner {
     background-color: #4ea0ff;
     background-image: url("/img/pattern.png");
@@ -10,6 +15,10 @@
 .banner-image {
     margin-top: 100px;
     margin-left: 5px;
+}
+
+main {
+    margin-left: 6px;
 }
 
 .title-and-author h1 {
@@ -36,16 +45,12 @@
     font-size: 18px;
 }
 
-.article-body {
-    font-size: 24px
-}
 
 .article-body span {
     background-color: yellow;
 }
 
 table {
-    font-size: 24px;
     text-align: left;
     vertical-align: middle;
     border-spacing: 0;
@@ -65,4 +70,8 @@ tbody {
 
 .middle-tr {
     background-color: white;
+}
+
+.conclusion span {
+    background-color: yellow;
 }
