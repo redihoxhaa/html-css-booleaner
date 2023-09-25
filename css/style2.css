@@ -2,13 +2,14 @@ body {
     margin: 0;
     background-color: #0B0C10;
     color: rgb(235, 235, 235);
+    font-family: 'Poppins', sans-serif;
 }
 
 /* CSS header */
 
 .banner {
     border-radius: 20px;
-    height: 120px;
+    height: 180px;
     background-color: #1F2833;
     margin: 20px;
     display: flex;
@@ -19,5 +20,49 @@ body {
     margin-right: auto;
     align-items: center;
     justify-content: center;
+    width: 400px;
 }
 
+
+/* CSS main */
+
+main {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.title-and-author h1 {
+    text-align: center;
+    font-size: 58px;
+    color: #66FCF1;
+    margin-bottom: 0;
+}
+
+.author, .date {
+    text-align: center;
+}
+
+.link-autore {
+    color: #45A29E;
+}
+
+.article-images {
+    margin-top: 20px;
+}
+
+.pic-description {
+    color: #2f6e6b;
+    font-size: 14px;
+    text-align: center;
+
+}
+
+.article-body {
+    text-align: justify;
+    margin-top: 60px;
+    display: inline-block;
+}
+
+.article-body ul {
+    display: inline-block;
+}
